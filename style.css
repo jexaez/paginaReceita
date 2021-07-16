@@ -1,0 +1,140 @@
+h1{
+    top: 420px;
+    left: 21px;
+    width: 884px;
+    height: 187px;
+    text-align: left;
+    font: normal normal 900 89px/79px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+
+.img{
+    top: 25px;
+    left: 22px;
+    width: 883px;
+    height: 374px;
+    border: 1px solid #707070;
+    opacity: 1;
+}
+
+.autor{
+    top: 617px;
+    left: 21px;
+    width: 884px;
+    height: 28px;
+    text-align: right;
+    font: normal normal bold 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.paragrafo_resumen{
+    top: 679px;
+    left: 21px;
+    width: 1000px;
+    height: 197px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.titulo_link{
+    top: 1117px;
+    left: 21px;
+    width: 315px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+.acesso_link{
+    top: 1179px;
+    left: 96px;
+    width: 753px;
+    height: 200px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+
+.sobre_prato{
+    top: 1599px;
+    left: 21px;
+    width: 315px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+.titulo_ing{
+    top: 1599px;
+    left: 21px;
+    width: 315px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+.list_ing{
+    top: 1675px;
+    left: 61px;
+    width: 844px;
+    height: 200px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.Titulo_preparo{
+    top: 1599px;
+    left: 21px;
+    width: 400px;
+    height: 50px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+.list_preparo{
+    top: 1675px;
+    left: 61px;
+    width: 844px;
+    height: 300px;
+    text-align: left;
+    font: normal normal 600 21px/34px Montserrat;
+    letter-spacing: 0px;
+    color: #000000;
+    opacity: 1;
+}
+.titulo_video{
+    top: 2123px;
+    left: 21px;
+    width: 400px;
+    height: 42px;
+    text-align: left;
+    font: normal normal 900 34px/42px Montserrat;
+    letter-spacing: 0px;
+    color: #FFB300;
+    opacity: 1;
+}
+.video{
+    top: 2200px;
+    left: 22px;
+    width: 883px;
+    height: 497px;
+    border: 1px solid #707070;
+    opacity: 1;
+    }
